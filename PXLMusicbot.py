@@ -12,7 +12,7 @@ from youtube_dl import YoutubeDL
 
 
 # Token and prefix
-token = "NDg2Mzc5Mjc2OTYzMjgyOTQ2.DnBArQ.4jQqJJmxAxt45-NVZK9OtwZxdp8"
+token = ""
 prefix = "m."
 bot = commands.Bot(command_prefix=prefix)
 
